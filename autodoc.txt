@@ -1,0 +1,14 @@
+__________________________
+
+.
+__________________________
+.git
+auto-doc-wrapper.cpp
+autodoc.py
+autodoc.txt
+README.md
+testdir
+__________________________
+
+.\testdir
+__________________________
